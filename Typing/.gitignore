@@ -1,0 +1,6 @@
+Tests/
+__pycache__/
+*.py[cod]
+Task_Results/
+Tasks/
+.DS_Store
